@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arjunultra
+- 👋 Hi, I’m @arjun
 - 👀 I’m interested in Website Development
 - 🌱 I’m currently learning Frontend Career Path @Scrimba.com
 - 💞️ I’m looking to collaborate on JS Projects
