@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ Arjun
+- 👋 Hi, I’m Arjun
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Fullstack Javascript Development Bootcamp FSJS2.0 from ineuron.ai
 - 💞️ I’m looking to collaborate on WebDev Projects
